@@ -2,12 +2,12 @@
     "name": "create-amp-page-starter",
     "private": true,
     "version": "1.0.0-beta.0",
-    "description": "Starter template for AMP static site generation",
-    "author": "Michael Becker https://mlbr.xyz",
+    "description": "AMP static site generation - Subscribe For Free",
+    "author": "Maliek Galant https://adball.netlify.app",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/bemit/create-amp-page-starter.git"
+        "url": "https://github.com/Maliek2/deployforvercel.git"
     },
     "type": "module",
     "dependencies": {
