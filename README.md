@@ -137,5 +137,5 @@ By committing your code/creating a pull request to this repository you agree to 
 
 ## Copyright
 
-2022 | [Michael Becker](https://mlbr.xyz), [bemit UG (haftungsbeschränkt)](https://bemit.codes)
+2022 | [Maliek Galant](https://www.google.co.za/amp/adball.netlify.app), [bemit UG (haftungsbeschränkt)](https://adball.netlify.app/privacy)
 
